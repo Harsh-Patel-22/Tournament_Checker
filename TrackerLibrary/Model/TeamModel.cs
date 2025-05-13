@@ -1,4 +1,4 @@
-﻿namespace TrackerLibrary;
+﻿namespace TrackerLibrary.Model;
 
 public class TeamModel {
     public List<PersonModel> TeamMembers { get; set; }

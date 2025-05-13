@@ -1,4 +1,4 @@
-namespace TrackerLibrary;
+namespace TrackerLibrary.Model;
 
 public class MatchupModel {
     public List<MatchupEntryModel> MatchupEntryModels { get; set; }
